@@ -147,7 +147,7 @@ export default function App() {
 
   // DATOS DE CONTACTO PARA VENTA
   // Cambia este número por el número real de WhatsApp.
-  const numeroWhatsapp = '5215555555555';
+  const numeroWhatsapp = '526182233152';
   const mensajeVenta =
     'Hola! Acabo de hacer el Demo de Ruta de Ascenso IA y me interesa adquirir la versión completa PRO con simulador ilimitado.';
 
